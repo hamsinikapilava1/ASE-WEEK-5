@@ -19,3 +19,8 @@ This project contains a simple login program created for the Advanced Software E
 * develop
 * feature/login
 * feature/conflict
+
+## Outcome
+
+This project demonstrates creating branches, merging code changes, and resolving merge conflicts in GitHub.
+
