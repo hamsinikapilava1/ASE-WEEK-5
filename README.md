@@ -22,4 +22,7 @@ This project contains a simple login program created for the Advanced Software E
 
 ## Outcome
 
-This project demonstrates GitHub branching, pull requests, merging branches, and merge conflict resolution using GitHub web interface.
+## Outcome
+
+This project demonstrates creating branches, pull requests, merging code changes, and resolving merge conflicts using the GitHub web interface.
+
